@@ -1,5 +1,5 @@
 
 def say_hello(value)
-  puts "Hello #{value}!"
+  return "Hello #{value}!"
 end
   
